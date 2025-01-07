@@ -16,5 +16,13 @@ Inicialmente foi utilizado o ChatGPT para criar o roteiro, em seguida foi usado 
 ## 🚀 Resultados
 o vídeo retrata um tema que tem ganhado notoriedade na atualidade, o empreendedorismo. Este tema possui grande importância no âmbito do mercado de trabalho, por isso também sâo listadas no vídeo algumas das principais características que tornam o empreendedor um profissional de sucesso!
 
+
+
+LINK DO VÍDEO PARTE 1: (https://github.com/user-attachments/assets/baf3af92-ccf3-44d4-854c-100c51e0b42d)
+
+LINK DO VÍDEO PARTE 2: ![1000110476](https://github.com/user-attachments/assets/9c69e855-2383-4e3b-9bde-6c1d214bad55)
+
+
+
 ## 💭 Reflexão (Opcional)
 Foi uma experiência motivadora, mostrando o quanto as IAs estão se tornando cada vez mais presentes no cotidiano e como podemos utilizá-las para nos ajudar a resolver problemas.
