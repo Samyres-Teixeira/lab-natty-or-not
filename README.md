@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: Desvendando o Empreendedorismo: Uma jornada de Sucesso )
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo possui duração de 1 minuto e 50 segundos e aborda de forma breve o conceito de empreendedorismo e destaca as principais características de um bom empreendedor, bem como sua importância e suas aplicações no mercado de trabalho.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para elaboração e estruturação do roteiro;
+IA Generativa ElevenLabs para conversão de texto em voz;
+IA Generativa D-ID para criação de avatar virtual;
+IA Generativa Gamma para criação de apresentação em slides;
+Software InShot para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente foi utilizado o ChatGPT para criar o roteiro, em seguida foi usado ElevenLabs ao converter o texto em voz e posteriormente no D-ID criou-se um avatar virtual em que se uniu o áudio com o roteiro criado. Para instigar a interatividade do conteúdo abordado foram produzidos slides explicativos por meio do Gamma e por fim, visando um melhor resultado o InShot contribuiu com a edição do vídeo e finalização do projeto. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+o vídeo retrata um tema que tem ganhado notoriedade na atualidade, o empreendedorismo. Este tema possui grande importância no âmbito do mercado de trabalho, por isso também sâo listadas no vídeo algumas das principais características que tornam o empreendedor um profissional de sucesso!
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi uma experiência motivadora, mostrando o quanto as IAs estão se tornando cada vez mais presentes no cotidiano e como podemos utilizá-las para nos ajudar a resolver problemas.
