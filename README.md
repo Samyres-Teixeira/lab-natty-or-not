@@ -1,4 +1,4 @@
-# Vídeo: Desvendando o Empreendedorismo: Uma jornada de Sucesso )
+# Vídeo: Desvendando o Empreendedorismo: Uma jornada de Sucesso
 
 ## 📒 Descrição
 Este vídeo possui duração de 1 minuto e 50 segundos e aborda de forma breve o conceito de empreendedorismo e destaca as principais características de um bom empreendedor, bem como sua importância e suas aplicações no mercado de trabalho.
